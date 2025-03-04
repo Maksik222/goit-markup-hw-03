@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding:0
+    list-style none;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.importent {
+    width: 105px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid rgb(0, 183, 255);
+    box-sizing:border-box;
+}
+.bild {
+    width: 105px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid blue;
+    box-sizing:border-box;
+}
+
+.imp2 {
+    background-color: dimgrey;
+    padding-bottom: 70px;
+}
+
+.imp3 {
+    background-color: dimgrey;
+    bottom: 70px;
+}
+
+.info {
+    background-color: darkgray;
+    bottom: 70px;
+}
+
+.info2 {
+    background-color: darkgray;
+    padding-bottom: 20px;
+}
+
+.button {
+    background-color: black;
+    bottom: 70px;
+}
+.button {
+    background-color: black;
+    padding-bottom: 10px;
+}
